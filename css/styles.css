@@ -36,3 +36,9 @@ h2 {
   min-height: 200px;
 }
 
+.tab-content {
+  border: 1px solid darkgrey;
+  border-top: none;
+  padding: 10px;
+}
+
