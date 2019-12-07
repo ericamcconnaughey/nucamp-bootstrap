@@ -40,7 +40,11 @@ header h2 {
 #carouselButton {
   position: absolute;
   right: 0;
-  bottom: 0; }
+  bottom: 0;
+  z-index: 1000; }
+
+#loginButton {
+  cursor: grab; }
 
 #loginModal .modal-header {
   background-color: #901CAD;
